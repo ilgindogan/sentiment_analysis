@@ -25,7 +25,7 @@ The scope of the project:
 
 ![alt text](image.png)
 
-#### Distilbert Model with IMDB Dataset
+#### Distilbert Model with IMDB Dataset
 
 ![alt text](image-1.png)
 
